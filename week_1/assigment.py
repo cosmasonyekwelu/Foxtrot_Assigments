@@ -56,7 +56,6 @@ print(message)
 
 # 5. Print the word "Python" three times using * (multiplication).
 
-# Write Answer 5 below
 print("Python" * 3)
 
 
@@ -79,7 +78,6 @@ print('"1234" as float:', string_to_float, "Type:", type(string_to_float))
 #    Change it 3 times to different countries.
 #    Print the final one.
 
-# Write Answer 7 below
 country = "Nigeria"
 country = "Canada"
 country = "France"
