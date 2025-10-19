@@ -25,7 +25,11 @@ for name in names:
 #    use a for loop to multiply each number by 3
 #    and add the results into a new list. Print the new list.
 # Answer no 4 here.
-
+numbers = [2, 4, 6, 8, 10]
+new_list = []
+for num in numbers:
+    new_list.append(num * 3)
+print(new_list)
 
 # 5. Use a for loop to check if "Chris" is in the list of names = ["Anna", "Bola", "Chris", "Dayo"].
 #    If found, print "Chris found" and break the loop.
