@@ -17,7 +17,9 @@ while num <= 20:
 # 3. Given a list of names = ["Anna", "Bola", "Chris", "Dayo"],
 #    use a for loop to print each name in the list.
 # Answer no 3 here.
-
+names = ["Anna", "Bola", "Chris", "Dayo"]
+for name in names:
+    print(name)
 
 # 4. From the list numbers = [2, 4, 6, 8, 10],
 #    use a for loop to multiply each number by 3
