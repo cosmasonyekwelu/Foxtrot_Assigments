@@ -9,7 +9,10 @@ while num <= 15:
 
 # 2. Use a while loop to print only the even numbers between 1 and 20.
 # Answer no 2 here.
-
+num = 2
+while num <= 20:
+    print(num)
+    num += 2
 
 # 3. Given a list of names = ["Anna", "Bola", "Chris", "Dayo"],
 #    use a for loop to print each name in the list.
