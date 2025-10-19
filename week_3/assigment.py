@@ -53,7 +53,10 @@ print(email_list)
 # 7. Use a while loop to keep adding 5 to a number until it becomes greater than 50.
 #    Print the number at each step.
 # Answer no 7 here.
-
+number = 0
+while number <= 55:
+    print(number)
+    number += 5
 
 # 8. Write a for loop that checks through numbers = [1,2,3,4,5,6].
 #    If it finds the number 4, print "Found 4" and stop the loop.
