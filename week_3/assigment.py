@@ -62,7 +62,13 @@ while number <= 55:
 #    If it finds the number 4, print "Found 4" and stop the loop.
 #    If it doesn’t find 4, print "4 not found".
 # Answer no 8 here.
-
+numbers = [1, 2, 3, 4, 5, 6]
+for num in numbers:
+    if num == 4:
+        print("Found 4")
+        break
+else:
+    print("4 not found")
 
 # 9. Given two lists:
 #    list1 = [1, 2, 3]
