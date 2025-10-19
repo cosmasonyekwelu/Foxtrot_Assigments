@@ -44,7 +44,11 @@ for name in names:
 #    use a for loop to add "@fruit.com" to each fruit and store them in a new list.
 #    Print the new list.
 # Answer no 6 here.
-
+fruits = ["apple", "banana", "orange"]
+email_list = []
+for fruit in fruits:
+    email_list.append(fruit + "@fruit.com")
+print(email_list)
 
 # 7. Use a while loop to keep adding 5 to a number until it becomes greater than 50.
 #    Print the number at each step.
