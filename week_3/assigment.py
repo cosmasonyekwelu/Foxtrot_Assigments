@@ -86,3 +86,9 @@ print(list1)
 #     write a loop to remove "Mary" from the list if it exists.
 #     Print the updated list.
 # Answer no 10 here.
+names = ["John", "Mary", "Paul"]
+for name in names:
+    if name == "Mary":
+        names.remove(name)
+        break
+print(names)
