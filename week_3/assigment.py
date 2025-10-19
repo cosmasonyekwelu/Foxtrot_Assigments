@@ -76,7 +76,11 @@ else:
 #    Use a for loop to add all the numbers in list2 into list1.
 #    Print the final list1.
 # Answer no 9 here.
-
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+for num in list2:
+    list1.append(num)
+print(list1)
 
 # 10. Given names = ["John", "Mary", "Paul"],
 #     write a loop to remove "Mary" from the list if it exists.
