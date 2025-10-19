@@ -34,7 +34,11 @@ print(new_list)
 # 5. Use a for loop to check if "Chris" is in the list of names = ["Anna", "Bola", "Chris", "Dayo"].
 #    If found, print "Chris found" and break the loop.
 # Answer no 5 here.
-
+names = ["Anna", "Bola", "Chris", "Dayo"]
+for name in names:
+    if name == "Chris":
+        print("Chris found")
+        break
 
 # 6. Given list fruits = ["apple", "banana", "orange"],
 #    use a for loop to add "@fruit.com" to each fruit and store them in a new list.
