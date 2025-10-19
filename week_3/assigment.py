@@ -2,7 +2,10 @@
 
 # 1. Use a while loop to print the numbers from 1 to 15.
 # Answer no 1 here.
-
+num = 1
+while num <= 15:
+    print(num)
+    num += 1
 
 # 2. Use a while loop to print only the even numbers between 1 and 20.
 # Answer no 2 here.
