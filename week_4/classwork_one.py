@@ -108,21 +108,7 @@ def pet(describe, animal, name):
 
 print(pet(describe_pet, "Dog", "Rocky"))
 
-# describe_pet(animal="dog", name="Rocky")
 
-
-# def msg(name):
-#     return f"Hello, {name}!"
-
-# def fun1(fun2, name):
-#     return fun2(name)
-
-# # Passing the msg function as an argument
-# print(fun1(msg, "Alex"))
-
-
-# # Passing the msg function as an argument
-# print(fun1(msg, "Alex"))
 
 
 # 9. Create a function called favorite_colors(*colors)
