@@ -1,0 +1,26 @@
+[
+    {
+        "customer_id": 9685,
+        "name": "cosmas",
+        "email": "onye\"gmai.com",
+        "room_number": null,
+        "days": 0,
+        "bill": 0.0
+    },
+    {
+        "customer_id": 1559,
+        "name": "val",
+        "email": "val\"gmail.com",
+        "room_number": "201",
+        "days": 2,
+        "bill": 30000.0
+    },
+    {
+        "customer_id": 9657,
+        "name": "cosmasss",
+        "email": "cosmas\"gmail.com",
+        "room_number": "301",
+        "days": 3,
+        "bill": 60000.0
+    }
+]
