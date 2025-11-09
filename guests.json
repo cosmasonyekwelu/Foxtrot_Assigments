@@ -11,16 +11,78 @@
         "customer_id": 1559,
         "name": "val",
         "email": "val\"gmail.com",
-        "room_number": "201",
-        "days": 2,
-        "bill": 30000.0
+        "room_number": null,
+        "days": 0,
+        "bill": 0.0
     },
     {
         "customer_id": 9657,
         "name": "cosmasss",
         "email": "cosmas\"gmail.com",
-        "room_number": "301",
-        "days": 3,
-        "bill": 60000.0
+        "room_number": null,
+        "days": 0,
+        "bill": 0.0,
+        "bookings": []
+    },
+    {
+        "customer_id": 7023,
+        "name": "ade",
+        "email": "ade\"gmail.com",
+        "room_number": "401",
+        "days": 4,
+        "bill": 100000.0
+    },
+    {
+        "customer_id": 3780,
+        "name": "vall",
+        "email": "va@gmsl.com",
+        "room_number": null,
+        "days": 0,
+        "bill": 0.0,
+        "bookings": [
+            {
+                "room_number": "202",
+                "days": 2,
+                "bill": 31000.0
+            }
+        ]
+    },
+    {
+        "customer_id": 6453,
+        "name": "cosmas val",
+        "email": "cosval@gmail.com",
+        "room_number": null,
+        "days": 0,
+        "bookings": [
+            {
+                "room_number": "101",
+                "days": 1,
+                "bill": 10000.0
+            }
+        ]
+    },
+    {
+        "customer_id": 2542,
+        "name": "david king",
+        "email": "david@gmail.com",
+        "bookings": [
+            {
+                "room_number": "201",
+                "days": 2,
+                "bill": 30000.0
+            }
+        ]
+    },
+    {
+        "customer_id": 3690,
+        "name": "Ebuka",
+        "email": "ebuka@gmail.com",
+        "bookings": [
+            {
+                "room_number": "301",
+                "days": 3,
+                "bill": 60000.0
+            }
+        ]
     }
 ]
